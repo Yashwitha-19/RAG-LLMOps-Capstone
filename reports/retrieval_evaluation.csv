@@ -1,0 +1,6 @@
+question,expected_passage_id,retrieved_rank,hit_at_1,hit_at_3,hit_at_5,reciprocal_rank
+When did Abraham Lincoln begin his political career?,289,3,0,1,1,0.3333333333333333
+Who suggested that Lincoln grow a beard?,382,1,1,1,1,1.0
+What did the Legal Tender Act of 1862 establish?,361,1,1,1,1,1.0
+When did Lincoln's Gettysburg Address argue America was born?,358,2,0,1,1,0.5
+Did Lincoln defeat John C. Breckinridge in the 1860 election?,319,1,1,1,1,1.0
